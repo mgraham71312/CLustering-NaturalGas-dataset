@@ -1,5 +1,5 @@
 # Clustering NaturalGas dataset
-K-means and DBSCAN clsutering of NaturalGas dataset in R
+K-means and DBSCAN clustering of NaturalGas dataset in R
 
 ## Dataset
 The Natural Gas Data, described as “panel data originating from 6 US states over the period 1967-1989” was retrieved June 25, 2022, from an [R repository](https://vincentarelbundock.github.io/Rdatasets/datasets.html).
